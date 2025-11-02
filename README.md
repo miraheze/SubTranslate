@@ -1,4 +1,8 @@
 # MachineTranslation
+
+> [!IMPORTANT]
+> This repository has been moved to gerrit: https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/extensions/MachineTranslation/
+
 An extension to provide machine translation.
 
 Developed by Universal Omega.
